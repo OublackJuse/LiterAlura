@@ -19,5 +19,5 @@ LiterAlura es una aplicación de gestión de libros utilizando Spring Boot, Spri
 - PostgreSQL
 - IntelliJ IDEA, Eclipse o NetBeans (opcional)
 
-## Instalación
+
 
